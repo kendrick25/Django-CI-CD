@@ -1,1 +1,1 @@
-web: gunicorn DJANGO-CI-CD.wsgi --log-file -
+web: gunicorn djangocicd.wsgi --log-file -
