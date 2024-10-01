@@ -1,1 +1,1 @@
-web: gunicorn djangocicd.wsgi --log-file -
+web: gunicorn resume_demo.wsgi --log-file -
