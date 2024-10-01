@@ -1,0 +1,1 @@
+web: gunicorn DJANGO-CI-CD.wsgi --log-file -
